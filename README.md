@@ -1,9 +1,10 @@
 # CFSS-Arduino-Workshop-101
 
-## Links
-[p5.serialcontrol App](https://github.com/p5-serial/p5.serialcontrol/releases/download/0.0.7/p5.serialcontrol-win32-x64.zip)
+## p5 Example
 
-p5 Serial Arduino Code:
+- [p5.serialcontrol App](https://github.com/p5-serial/p5.serialcontrol/releases/download/0.0.7/p5.serialcontrol-win32-x64.zip)
+
+- p5 Serial Arduino Code:
 ```
 void setup() {
  Serial.begin(9600); // initialize serial communications
@@ -17,4 +18,4 @@ void loop() {
 }
 ```
 
-[p5 Serial Communication Example](https://editor.p5js.org/kennyviperhk/sketches/H136aX7b4)
+- [p5 Serial Communication Example](https://editor.p5js.org/kennyviperhk/sketches/H136aX7b4)
